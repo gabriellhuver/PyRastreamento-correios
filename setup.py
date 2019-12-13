@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'PyRastreamento-correios',        
   packages = ['PyRastreamento-correios'],   
-  version = '0.1',      
+  version = '0.1.1',      
   license='MIT',        
   description = 'Biblioteca de rastreamento dos correios',   
   author = 'Gabriell Huver',                   
   author_email = 'gabriell.is.huver@gmail.com',    
   url = 'https://github.com/gabriellhuver/PyRastreamento-correios', 
-  download_url = 'https://github.com/gabriellhuver/PyRastreamento-correios/archive/first.tar.gz', 
+  download_url = 'https://github.com/gabriellhuver/PyRastreamento-correios/archive/second.tar.gz', 
   keywords = ['CORREIOS', 'RASTREAMENTO', 'LINKCORREIOS'],   
   install_requires=[           
           'requests',
