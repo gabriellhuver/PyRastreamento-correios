@@ -1,5 +1,5 @@
 from PyRastreamentoCorreios import rastrear
 
 
-statusList = rastrear('lb277957266se')
+statusList = rastrear('teste')
 print(statusList)
