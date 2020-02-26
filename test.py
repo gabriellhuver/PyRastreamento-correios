@@ -1,6 +1,5 @@
 from PyRastreamentoCorreios import rastrear
 
 
-statusList = rastrear('CODIGO')
-for status in statusList:
-    print(status)
+statusList = rastrear('lb277957266se')
+print(statusList)
