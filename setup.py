@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'PyRastreamentoCorreios',        
   packages = ['PyRastreamentoCorreios'],   
-  version = '0.2',      
+  version = '0.2.1',      
   license='MIT',        
   description = 'Biblioteca de rastreamento dos correios',   
   author = 'Gabriell Huver',                   
