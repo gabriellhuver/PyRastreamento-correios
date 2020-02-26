@@ -12,11 +12,10 @@ pip install PyRastreamentoCorreios
 
 ### Utilização
 ```python
-from PyRastreamentoCorreios import rastrear
-
-statusList = rastrear('CODIGO')
-for status in statusList:
-    print(status)
+    from PyRastreamentoCorreios import rastrear
+    
+    statusList = rastrear('teste')
+    print(statusList)
 ```
 ### Autor
 * Gabriell Huver
